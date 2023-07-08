@@ -1,0 +1,23 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --public-url /6/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "parcel": "^2.9.3",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "devDependencies": {
+    "parcel-reporter-clean-dist": "^1.0.4"
+  }
+}
