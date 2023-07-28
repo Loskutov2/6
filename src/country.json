@@ -5,17 +5,17 @@
       "currency": "Австралійский доллар (AUD)",
       "language": "Англійска",
       "population": 24970200,
-      "flag": "https://wikiway.com/upload/iblock/742/800pxFlagofAustraliasvg.png",
-      "infected": false
+      "flag": "https://th.bing.com/th?id=ODL.211e7c8e71cb8969499fb11f1c5d14aa&w=143&h=110&c=12&rs=1&qlt=99&pcl=faf9f7&o=6&dpr=1.8&pid=13.1",
+      "continent": "au"
     },
     {
       "name": "Болівія",
       "capital": "Сукре",
       "currency": "Болівіано (BOB)",
-      "language": "Іспанська, кечуа, аймара, гуарані",
+      "language": "Іспанська, кечуа",
       "population": 10461053,
-      "flag": "https://wikiway.com/upload/iblock/5ed/800px-Flag_of_Bolivia.png",
-      "infected": true
+      "flag": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAFIAUgMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAQIDBAcIBgX/2gAIAQEAAAAA6pADXAAr5qhAkuoAL3SMHnsH14ysaDU/yNx5hlaBQUXBe1+ALu2wBX0WAAAP/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAMHAQQGAgX/2gAKAgIQAxAAAADW+sAM8tbRkEc1M1eWPp15ux4jhvaqD08jEfSdGAMTfYAD/8QAMRAAAAMHAgMGBgMAAAAAAAAAAQIDAAQFBhdUkxHSEzFSBxIgMDJxISIjJFGSQGHR/9oACAEBAAE/APLrDLFpEcae9qwyxaRHGnvasUsWkRxp72rFLFpEcae9qxSxaRHGnvasUsWkRxp72rFLFpEcae9qxSxaRHGnvasMsWkRxp72rDLFpEcae9qvyzaRHGnvYeY+UHIGMg8aj9utjM3AeLdbGZuA8W62MzcB4t1v0M3AeLdbGZuA8W62MzcB4t1v0M3AeLdbGZuA8W62MzcB4t1sZmBB40D7dbGb/GER1HwRqKKoFFJzVSMumYplymARAhPwIgIaCLQ2OPby8LvT2Lu6ugAQgJamOoBjD6jDyBgEBABAdQENQEPAX0h7MPMfBFTLovMZKJjori/lUTP3BEDFMUSh3fyPxZ0TeHN3iCCplDCDucqCPc+f6pg0H4ezQ4ipIe5FVDRQEEwOH96eAvpD2Ye0SY+t1wtUSZOt2wg1RJk6nbC1RJk6nbCw9oUxDzF1wgxJ+j5A0KDmHsgDVEmTrdsINUSZOp2wtUSZOp2wg1RJk63bCDB2izLoHzu2EGHn5Qcgais0XsMyK7GopNN9DMiuxqKTTfQzIrsaik030MyK7GopNN9DMiuxqKTTfQzIrsaik030MyK7GopNN9DMiuxqKTTfQzIrsaik030MyK7GotNF9Dciuz+P/8QAKBEAAAQDCQACAwAAAAAAAAAAAAECAwUTFAQRFVJTVGGRkiJREiAh/9oACAECAQE/AKyzaqRWWbVSKyzaqRWWbVSKuzaqRWWXWSJjedPYmN509iY3nT2JiM6exMbzp7E1GZPYvMXn9ixweHKg61qJs15zV8vlcHS/FxaSP+EoyF5/Yv5GBQfYMeRgUH2DHkFBISRXUTPQwKD7BjyMCg+wY8jAINsGPIkN8iQ3yJDfIkN8iQ3yKdvn9//EACURAAAEBgICAwEAAAAAAAAAAAABAxUCBAURVJISUVJhEzGRIP/aAAgBAwEBPwBiq+EoGKr4SgYqvhKBiq+EoGKr4SgYaxgqjlD5EOReRDkXZfo5F5EOReRDkXZfov7F/YmDXhrEpKQorHAp8Z8yhvCZGVzO/wBFYGXEzIj+jsL+xcPFUzVtg8VXNW2DxVMxXYPFUzVtg8VTNW2DxVM1bYMkj1HsGSR6j2DJI9R7Bkkeo9gySPUewY5DqPb+/wD/2Q==",
+      "continent": "am"
     },
     {
       "name": "Великобританія",
@@ -23,8 +23,8 @@
       "currency": "Фунт стерлінгів (GBP)",
       "language": "Английска",
       "population": 63395574,
-      "flag": "https://wikiway.com/upload/iblock/5ec/800px-Flag_of_the_United_Kingdom_svg.png",
-      "infected": false
+      "flag": "https://th.bing.com/th?id=ODL.881a6e4067fbd2162a1e599a3e8a2288&w=143&h=110&c=12&rs=1&qlt=99&pcl=faf9f7&o=6&dpr=1.8&pid=13.1",
+      "continent": "eu"
     },
     {
       "name": "Ямайка",
@@ -32,8 +32,8 @@
       "currency": "Ямайский доллар (JMD)",
       "language": "Англійська",
       "population": 2868380,
-      "flag": "https://wikiway.com/upload/iblock/b83/600px-Flag_of_Jamaica_svg.png",
-      "infected": false
+      "flag": "https://th.bing.com/th?id=ODL.ae90a4995676519860d327a56e2be4fb&w=143&h=110&c=12&rs=1&qlt=99&pcl=faf9f7&o=6&dpr=1.8&pid=13.1",
+      "continent": "am"
     },
     {
       "name": "Швеція",
@@ -41,8 +41,8 @@
       "currency": "Шведська крона (SEK)",
       "language": "Шведська",
       "population": 9723809,
-      "flag": "https://wikiway.com/upload/iblock/5e3/800px-Flag_of_Sweden_svg.png",
-      "infected": true
+      "flag": "https://th.bing.com/th?id=ODL.dc93d301679fe6a5df2e384592a5d8b3&w=143&h=110&c=12&rs=1&qlt=99&pcl=faf9f7&o=6&dpr=1.8&pid=13.1",
+      "continent": "eu"
     },
     {
       "name": "Португалія",
@@ -50,7 +50,7 @@
       "currency": "Евро (EUR)",
       "language": "Португальска",
       "population": 10799270,
-      "flag": "https://wikiway.com/upload/iblock/2b1/600px-Flag_of_Portugal_svg.png",
-      "infected": true
+      "flag": "https://th.bing.com/th?id=ODL.f7ae2b7dbcfb1516931866cc8ca25e82&w=143&h=110&c=12&rs=1&qlt=99&pcl=faf9f7&o=6&dpr=1.8&pid=13.1",
+      "continent": "eu"
     }
   ]
